@@ -28,8 +28,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/aeharding/voyager.git
-        tag: 2.48.3
-        commit: 6980b856c1b744ec1fe3098f24c1418fb8f6a5c4
+        tag: 2.48.4
+        commit: 09c1973fef866eb9114d3e2634f8f851fb20752d
 
       # flatpak-node-generator pnpm pnpm-lock.yaml --pnpm-store-version v11
       # (store version must match the pnpm version below)
